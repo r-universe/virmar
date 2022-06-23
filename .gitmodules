@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "finnishgrid"]
+	path = finnishgrid
+	url = https://github.com/virmar/finnishgrid
+	shallow = true
+	registered = true
